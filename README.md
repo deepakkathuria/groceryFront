@@ -25,7 +25,7 @@ Installation and Setup for this code
 //FRONTEND
 
 Clone the Repository (if applicable):
-git clone [repo]
+git clone https://github.com/deepakkathuria/groceryFront.git
 
 Install Dependencies:
 Navigate to the project directory and run:  npm istall 
@@ -38,7 +38,7 @@ Start the Application: npm start
 
 For above functionality work you have to run backend  as well
 
-git clone [repo]
+git clone https://github.com/deepakkathuria/grocerybackend.git
 npm install 
 node server.js
 
